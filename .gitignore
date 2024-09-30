@@ -1,4 +1,2 @@
-*.wasm
-*.js
-*.html
 a.out
+.DS_Store
